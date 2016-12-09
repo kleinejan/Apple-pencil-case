@@ -1,6 +1,6 @@
 # Apple® Pencil® Case
 This repo contains a DIY case for your precious Pencil and it's nib.
-The pencil template has the exact outer dimentions of the original pencil. So no need to rework this part.
+The pencil template has the exact outer dimensions of the original pencil. So no need to rework this part.
 
 ## Why?
 Well I could not find case that holds my spare nib and my pencil. :)                            
